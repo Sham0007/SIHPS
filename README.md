@@ -35,15 +35,25 @@ User-friendly registration and profile management on web and mobile platforms. T
 
 ## Use Cases
 1.Alumni Registration and Profile Management Alumni register through a user-friendly web or mobile app, creating comprehensive profiles with education, profession, and interests. Profiles enable connections with peers, access to events, and participation in alumni activities.
+
 2.Secure Donations Alumni contribute to scholarships, infrastructure, and initiatives via a secure and transparent donation portal. The platform provides receipts and updates, encouraging repeat contributions and trust.
+
 3.Secure Donations Alumni contribute to scholarships, infrastructure, and initiatives via a secure and transparent donation portal. The platform provides receipts and updates, encouraging repeat contributions and trust.
+
 4.Networking Hub Alumni connect based on interests, industries, or locations using advanced search and in-app messaging. Facilitates mentorship, professional collaborations, and shared projects.
+
 5.Job Posting and Searching Alumni post job openings and search for career opportunities within the network. The platform bridges alumni with potential employers and mentorship resources.
+
 6.Event Management Alumni register, receive notifications, and participate in reunions, workshops, and professional events. The platform simplifies event coordination, enhancing engagement and attendance.
+
 7.Showcasing Alumni Success Stories Alumni achievements are highlighted to inspire pride and motivate current students. A curated section promotes notable contributions, awards, and career milestones.
+
 8.Feedback and Surveys Alumni provide feedback on their experiences and suggest improvements for the platform. Surveys gather insights for shaping future alumni initiatives and maintaining relevance.
+
 9.Alumni Directory Alumni use advanced filters to locate peers by graduation year, location, or industry. This feature strengthens community bonds and supports professional networking.
+
 10.Mobile Accessibility The mobile app allows busy alumni to stay engaged, access updates, and participate on the go. Features include event registration, job postings, and real-time notifications.
+
 11.Institutional Outreach The platform facilitates announcements, news, and fundraising campaigns, strengthening alumni-institution ties. Alumni engage through donations or active participation in initiatives.
 ## Technology Stack
 Frontend Development
